@@ -1,5 +1,7 @@
 # Rust MCP
 
+[![Rust CI](https://github.com/aloshy-ai/rust-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/aloshy-ai/rust-mcp/actions/workflows/ci.yml)
+
 A Rust project for Machine Control Protocol (MCP) integration.
 
 ## Description
